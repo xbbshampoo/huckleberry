@@ -45,6 +45,7 @@ main {
   height: 100%;
   border-top: 8px solid var(--color-gray-dark);
   background-color: var(--color-gray-light);
+  padding-top: 36px;
 }
 
 .intro-chunk,
